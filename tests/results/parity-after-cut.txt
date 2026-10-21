@@ -1,0 +1,12 @@
+# After the cut: MT5 indicator rebuilt from this repository's files, DumpIndicator vs tests/reference.py (2 configs x EURUSD, XAUUSD x H1, H4)
+# 'tested' here counts zones still in the tested state at the end of the data
+PASS dz_default_EURUSD_H1           bars 100000  zones  4361 (tested  3794, broken  4070)  breaks  7300  all 13 buffers equal
+PASS dz_default_EURUSD_H4           bars  34031  zones  1761 (tested  1492, broken  1590)  breaks  2703  all 13 buffers equal
+PASS dz_default_XAUUSD_H1           bars  91746  zones  3806 (tested  3202, broken  3501)  breaks  6543  all 13 buffers equal
+PASS dz_default_XAUUSD_H4           bars  25459  zones  1233 (tested  1027, broken  1103)  breaks  1926  all 13 buffers equal
+PASS dz_move_base_EURUSD_H1         bars 100000  zones  3695 (tested  2571, broken  3619)  breaks  7300  all 13 buffers equal
+PASS dz_move_base_EURUSD_H4         bars  34031  zones  1390 (tested   989, broken  1330)  breaks  2703  all 13 buffers equal
+PASS dz_move_base_XAUUSD_H1         bars  91746  zones  3128 (tested  2147, broken  2972)  breaks  6543  all 13 buffers equal
+PASS dz_move_base_XAUUSD_H4         bars  25459  zones   970 (tested   665, broken   867)  breaks  1926  all 13 buffers equal
+
+ALL PASS (8 files)

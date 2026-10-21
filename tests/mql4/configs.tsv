@@ -1,0 +1,4 @@
+dz_default	InpSwing=3,InpATR=14,InpDispMult=1.0,InpBodyPct=55,InpSearch=12,InpBaseMode=0,InpZoneMode=0,InpTestMode=0,InpBreakMode=0,InpMaxLive=12
+dz_body_mid_wick	InpSwing=5,InpATR=14,InpDispMult=1.0,InpBodyPct=55,InpSearch=12,InpBaseMode=0,InpZoneMode=1,InpTestMode=1,InpBreakMode=1,InpMaxLive=0
+dz_mixed_far	InpSwing=2,InpATR=10,InpDispMult=1.5,InpBodyPct=60,InpSearch=5,InpBaseMode=0,InpZoneMode=2,InpTestMode=2,InpBreakMode=0,InpMaxLive=3
+dz_move_base	InpSwing=3,InpATR=14,InpDispMult=1.0,InpBodyPct=55,InpSearch=12,InpBaseMode=1,InpZoneMode=1,InpTestMode=1,InpBreakMode=0,InpMaxLive=0

@@ -1,0 +1,4 @@
+dz_default	InpAlertPopup=true
+dz_body_mid_wick	InpAlertPopup=false,InpSwing=5,InpZoneMode=1,InpTestMode=1,InpBreakMode=1,InpMaxLive=0
+dz_mixed_far	InpAlertPopup=false,InpSwing=2,InpATR=10,InpDispMult=1.5,InpBodyPct=60,InpSearch=5,InpZoneMode=2,InpTestMode=2,InpMaxLive=3
+dz_move_base	InpAlertPopup=false,InpBaseMode=1,InpZoneMode=1,InpTestMode=1,InpMaxLive=0
